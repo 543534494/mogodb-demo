@@ -6,7 +6,7 @@ import org.springframework.data.annotation.Id;
 
 
 /**
- * 基础的Bean对象
+ * 基础的Bean对象 123
  * <pre>
  * date: 2017年2月7日 下午4:55:03 
  * </pre>
